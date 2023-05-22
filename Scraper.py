@@ -1,5 +1,3 @@
-# AIOHTTP-Scraper
-This is my asynchronized scraper written on Python
 import asyncio
 import aiohttp
 import csv
